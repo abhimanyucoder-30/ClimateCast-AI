@@ -1,11 +1,15 @@
-# 🌦️ ClimateCast AI
+<img width="898" height="741" alt="Screenshot From 2026-05-09 12-07-40" src="https://github.com/user-attachments/assets/0424c012-63bb-4d44-89f6-d5e92bfc799d" /># 🌦️ ClimateCast AI
 
 AI-powered weather time series forecasting dashboard built using Python, Prophet, Plotly, and Streamlit.
 
 ClimateCast AI analyzes historical weather patterns and predicts future weather trends using time series forecasting techniques.
 
 ---
+# 🚀 Live Demo
 
+🔗 [Launch ClimateCast AI](https://your-streamlit-link.streamlit.app)
+
+---
 # 🚀 Features
 
 * 📈 Weather forecasting using Facebook Prophet
